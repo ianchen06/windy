@@ -1,3 +1,6 @@
 [submodule "arduino/lib/Arduino-LiquidCrystal-I2C-library"]
 	path = arduino/lib/Arduino-LiquidCrystal-I2C-library
 	url = https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
+[submodule "arduino/lib/SI7021"]
+	path = arduino/lib/SI7021
+	url = https://github.com/LowPowerLab/SI7021
